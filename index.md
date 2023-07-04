@@ -20,7 +20,7 @@ Dr. Peleg currently focuses on how organisms adapt to environmental fluctuations
 
 ## About My Project
 
-Project description goes here.
+Honey bees are social insects that utilize pheromone signals to direct each other, resulting an emergent swarm behavior. Research has shown that bees can solve the shortest path problem and locate their queen by directing these pheromone signals, or “scenting”, in order to collectively create a communication network; however, little work has been done to study the behavior of individual bees in this process. We aim to show the scenting behaviors of individual honey bees directly correlates to the balance of exploration versus exploitation in the pathfinding behavior of the swarm. We utilize XMem, a state-of-the-art long-term video object segmentation tool, for individual bee tracking and segmentation. Combining this with additional computer vision approaches described in the literature, we analyze the behavior patterns of individual honeybees within the swarm. Through this analysis, we anticipate the time-series data of individual honey bees will display the balance between scenting and exploring that allows for this emergent pathfinding capability of the swarm. This improved tracking of individual honey bees will allow us to develop a better multi-agent reinforcement learning model, predicting the behaviors of the swarm.
 
 [My Final Report](files/finalreport.pdf)
 
